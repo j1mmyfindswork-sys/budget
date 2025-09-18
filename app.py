@@ -62,6 +62,7 @@ def build_schedule():
                 {"Name": "Insurance", "Amount": EXPENSES["Insurance"]},
                 {"Name": "Gym Membership", "Amount": EXPENSES["Gym Membership"]},
                 {"Name": "Food & Snacks (Half)", "Amount": 300},
+                {"Name": "Internet", "Amount": 80},
             ]
 
         # build breakdown
