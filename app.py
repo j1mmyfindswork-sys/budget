@@ -14,6 +14,7 @@ EXPENSES = {
     "Utilities": 30,
     "Insurance": 160,
     "Gym Membership": 15,
+    "Internet": 80,
 }
 
 GROCERY_TEMPLATE = [
